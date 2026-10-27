@@ -1,0 +1,1 @@
+Run `python expense_tracker.py`. It creates `expenses.csv` in the current folder. Add date YYYY-MM-DD, category, description and positive amount. Tests: `python -m unittest -v`. Use fictional expenses only.

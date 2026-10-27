@@ -1,0 +1,1 @@
+Install `python -m pip install -r requirements.txt`, then run `streamlit run app.py`. This is a mock-only educational assistant and does not call a live model. Add a real provider only after reviewing official docs, costs, privacy and secret handling.

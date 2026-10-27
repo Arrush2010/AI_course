@@ -1,0 +1,1 @@
+Open `index.html` in a browser. Tasks support add, complete, edit, delete, filters and localStorage. This is a local single-user demo; localStorage is not secure storage. Extension: add priorities and due dates.

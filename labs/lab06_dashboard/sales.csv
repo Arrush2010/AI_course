@@ -1,0 +1,7 @@
+transaction_id,date,product,region,quantity,unit_price,sales_amount
+T001,2026-01-03,Notebook,North,10,3.50,35.00
+T002,2026-01-14,Pen,South,20,1.25,25.00
+T003,2026-02-02,Notebook,South,15,3.50,52.50
+T004,2026-02-18,Bag,North,4,20.00,80.00
+T005,2026-03-05,Pen,East,30,1.25,37.50
+T006,2026-03-20,Bag,South,2,20.00,40.00

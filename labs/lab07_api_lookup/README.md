@@ -1,0 +1,1 @@
+Run `python api_lookup.py`. The default output is explicitly simulated, not live API data. For the extension, choose a documented public API, check official terms/limits, add a timeout, validate JSON and keep credentials in environment configuration.

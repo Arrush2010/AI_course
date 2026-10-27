@@ -1,0 +1,11 @@
+- [ ] Clean environment installs dependencies
+- [ ] Tests pass
+- [ ] Normal, invalid, boundary and failure paths tested
+- [ ] No secrets in repository
+- [ ] Sample data is fictional
+- [ ] Logs do not contain credentials
+- [ ] Debug mode is disabled in hosted environment
+- [ ] Backup/recovery needs documented
+- [ ] Smoke test documented
+- [ ] Rollback steps documented
+- [ ] Limitations disclosed

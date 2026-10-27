@@ -1,0 +1,1 @@
+Run `python inventory.py`. Add a product, then place an order. An order larger than available stock must fail without changing stock. Tests: `python -m unittest -v`. This is a single-user educational demo.

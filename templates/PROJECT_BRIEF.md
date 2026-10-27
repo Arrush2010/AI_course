@@ -1,0 +1,14 @@
+# Project Brief
+- Project name:
+- Problem statement:
+- Target users:
+- User stories:
+- Acceptance criteria:
+- MVP features:
+- Out of scope:
+- Inputs/outputs/data storage:
+- Sensitive data to avoid:
+- Technology and dependencies:
+- Normal, boundary, invalid and recovery tests:
+- Risks and assumptions:
+- Definition of done:
